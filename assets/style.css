@@ -47,6 +47,8 @@ h1 {
     font-size:60px;
 }
 
+/*hero is large, and can flex*/
+
 .heroarea {
 display:flex;
 flex-direction:column;
@@ -122,4 +124,9 @@ justify-content: center;
 
 .flexbox5 {
     min-height:100px;
+}
+
+/*This is to format my placeholder pictures and keep them uniform */
+.placeholder {
+    max-block-size: 80px;
 }
