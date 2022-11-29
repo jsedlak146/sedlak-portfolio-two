@@ -4,6 +4,10 @@
 
 The challenge for this week asked us to create a portfolio to showcase our information and work.  I refactored from the previous website we used and added a few of my own touches to complete the website.  Below are my links to the GitHub repo and to the finished website.
 
+Repo: https://github.com/jsedlak146/sedlak-portfolio-two
+
+Website: https://jsedlak146.github.io/sedlak-portfolio-two/
+
 ## Installation
 
 I built this code from some refactored parts of an old homework, while also incorporating more elements in the HTML and CSS advanced flexboxes.  This makes for a more reactive and better working portfolio website.
